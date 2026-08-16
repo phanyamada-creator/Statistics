@@ -1,0 +1,301 @@
+Age,Gender,Edu,Race,Blood T,Height (cm),Weight (kg),BMI,Annual Income (USD),Blood Pressure
+63,Female,Bachelor,Black,O,171.7,101,34.3,69101,130/89
+53,Male,Master,White,A,160.2,91.1,35.5,75215,121/73
+39,Female,Associate,Black,O,169.8,110.5,38.3,93288,109/76
+32,Male,High School,Black,A,173.3,68.6,22.8,91238,159/71
+45,Female,PhD,White,AB,169.4,69.7,24.3,48107,133/58
+63,Male,Master,Hispanic,A,156.6,44.6,18.2,18042,96/79
+43,Female,High School,Hispanic,O,187,83.6,23.9,46429,112/81
+47,Male,PhD,Asian,AB,170.9,80.6,27.6,61513,133/90
+35,Male,High School,White,AB,162.1,66.6,25.3,52767,108/87
+35,Female,Bachelor,Asian,AB,186.2,73.8,21.3,99357,125/88
+48,Male,High School,Asian,O,176.2,55.3,17.8,60375,134/70
+60,Male,High School,Asian,B,158,93,37.3,73074,69/84
+64,Female,High School,Hispanic,B,159.6,67.7,26.6,64344,118/95
+48,Male,Master,White,B,167.8,121.4,43.1,53067,118/83
+27,Male,High School,Asian,O,173,72.4,24.2,21503,113/98
+46,Male,PhD,White,AB,176.2,63.6,20.5,58427,124/100
+26,Female,Bachelor,White,B,179.5,68.8,21.4,125092,129/77
+48,Male,Bachelor,Hispanic,O,175.4,53.8,17.5,35110,122/73
+54,Female,High School,Asian,B,183.5,82.2,24.4,23702,114/72
+62,Male,Master,Asian,A,171.3,68.7,23.4,98727,129/64
+26,Male,Master,White,B,162.4,92,34.9,74841,120/74
+45,Male,PhD,Black,B,170,70.9,24.5,63748,116/92
+57,Female,High School,Hispanic,AB,169.3,95.8,33.4,87253,100/57
+36,Male,Bachelor,Hispanic,O,144.2,86.4,41.6,43369,96/69
+46,Male,Master,Hispanic,AB,164.4,75.4,27.9,57868,100/78
+49,Female,High School,Hispanic,AB,173.1,98.7,32.9,79103,124/71
+51,Male,Master,Asian,AB,165.8,89.3,32.5,102207,118/74
+52,Female,Master,Asian,AB,163.5,119.2,44.6,36629,97/74
+40,Female,Bachelor,Black,AB,179.1,68.9,21.5,85614,129/77
+39,Male,Associate,Hispanic,B,160.8,76.1,29.4,67636,140/72
+27,Female,PhD,Hispanic,AB,177.1,98.5,31.4,63261,111/71
+61,Male,PhD,White,AB,156.7,51.8,21.1,59845,93/89
+31,Female,Bachelor,Asian,O,197.6,94.8,24.3,32307,109/90
+45,Female,Master,Hispanic,A,167.8,81.6,29,79261,132/66
+33,Male,High School,Black,B,166.8,61.7,22.2,44354,128/52
+63,Female,Master,Black,B,181.4,54.6,16.6,38406,106/90
+42,Female,Bachelor,Asian,B,165.8,64.9,23.6,77709,142/67
+28,Female,PhD,Black,AB,184.5,40.7,12,75782,140/82
+49,Female,Master,Black,AB,173.7,67.7,22.4,61580,109/64
+38,Female,PhD,Asian,AB,168.8,84.3,29.6,81590,108/92
+33,Male,High School,Hispanic,O,167.7,67.9,24.1,88518,111/105
+50,Female,PhD,Hispanic,A,182.1,95.8,28.9,86164,112/81
+26,Male,PhD,Black,AB,172.3,99.9,33.7,49434,134/79
+44,Female,Associate,Black,A,174.3,94.1,31,80282,126/76
+52,Male,Associate,Hispanic,O,175.4,78.5,25.5,64232,133/87
+31,Male,Associate,Asian,B,171.3,40.1,13.7,94518,130/85
+32,Female,PhD,Black,AB,175.2,64.4,21,57525,145/90
+59,Female,Bachelor,White,A,168.8,72.9,25.6,52870,104/73
+38,Female,PhD,Asian,A,169.5,61.6,21.4,47724,125/83
+41,Male,Bachelor,Black,AB,158.8,72.9,28.9,63785,87/74
+60,Female,Bachelor,Black,B,173,99.2,33.1,69334,100/69
+64,Male,Associate,White,B,152.8,50.3,21.5,69719,118/79
+28,Male,Master,White,B,172.8,102.2,34.2,66983,126/70
+26,Male,High School,Hispanic,O,167.2,88.3,31.6,73420,118/91
+30,Female,Associate,Asian,A,173.7,79,26.2,55549,111/71
+28,Female,Associate,Asian,A,159.5,64.3,25.3,42549,114/83
+53,Male,Master,Hispanic,A,148.8,61.9,28,40803,140/73
+42,Male,High School,Asian,O,166.5,50.6,18.3,79501,114/82
+50,Female,PhD,Asian,A,159.5,100.8,39.6,69406,146/74
+58,Male,PhD,Asian,O,152.2,98.1,42.3,22883,131/67
+34,Female,Associate,Asian,B,177.7,53.9,17.1,81935,126/84
+60,Male,High School,Asian,AB,186,66.7,19.3,97608,102/77
+38,Female,Associate,White,A,162,81.5,31.1,45681,134/82
+55,Male,Bachelor,Asian,A,169.2,70.5,24.6,66723,112/75
+39,Female,Associate,White,B,166.9,46.2,16.6,50530,102/66
+32,Male,Associate,Asian,AB,163.4,65.1,24.4,72566,127/90
+38,Female,PhD,Hispanic,O,176.6,104.3,33.4,36679,99/87
+47,Female,PhD,Black,AB,180.1,66.2,20.4,58571,108/74
+64,Male,PhD,White,B,161.3,72.5,27.9,79626,119/80
+45,Male,Bachelor,Asian,B,170.4,57.8,19.9,84714,153/90
+40,Female,PhD,Hispanic,AB,182.8,83.8,25.1,68529,109/75
+42,Male,High School,Black,O,176.9,76.7,24.5,53219,113/76
+48,Female,Master,White,O,178.4,63.9,20.1,28147,130/82
+50,Male,High School,Black,A,183.7,55.4,16.4,44849,101/75
+49,Female,High School,Hispanic,O,183.5,96.1,28.5,50614,126/88
+65,Female,PhD,White,AB,180.3,50.9,15.7,46045,138/78
+53,Female,Master,Black,B,171.4,82.6,28.1,61191,115/72
+39,Female,Master,Asian,A,166.2,42.7,15.5,53162,135/86
+25,Female,Master,White,A,171,85.6,29.3,63442,124/68
+49,Female,Bachelor,Black,B,164.7,89.6,33,84052,109/100
+31,Male,PhD,Hispanic,O,150.5,91.4,40.4,51870,117/95
+33,Male,Master,Hispanic,B,167.2,72.6,26,32342,114/85
+48,Male,Bachelor,White,O,173.6,98.8,32.8,45965,118/84
+25,Female,Associate,Black,B,164.1,109.6,40.7,71671,122/83
+32,Female,Associate,White,AB,168.1,70.2,24.8,73558,128/75
+48,Female,Bachelor,White,O,168.5,68.2,24,68121,127/82
+35,Female,Bachelor,Black,AB,183.6,77.2,22.9,86014,83/70
+41,Male,PhD,Black,A,166.4,67.8,24.5,56272,118/85
+32,Male,PhD,Asian,B,183.6,65.6,19.5,101043,97/88
+59,Female,Associate,Black,A,142.9,66.9,32.8,76363,115/76
+59,Male,Master,Hispanic,A,183.5,100.7,29.9,9530,118/74
+57,Male,Associate,White,A,183,86.6,25.9,96013,134/67
+29,Female,Master,White,A,179,67.8,21.2,44660,119/94
+63,Male,Master,Hispanic,B,149.9,38.2,17,39317,123/74
+65,Female,PhD,Black,A,180.2,51.8,16,70475,131/78
+52,Male,High School,Hispanic,B,169.5,82.6,28.8,25236,138/83
+31,Female,High School,Hispanic,B,144.7,43.2,20.6,46090,118/82
+33,Female,Bachelor,Asian,AB,183,79.4,23.7,91141,121/87
+32,Female,PhD,Hispanic,O,184.4,59,17.4,71124,120/76
+36,Female,Master,White,O,151,76.4,33.5,76244,111/68
+58,Male,High School,Hispanic,B,171.8,76,25.7,46861,108/66
+57,Female,Master,White,AB,183.9,76.8,22.7,29232,85/74
+47,Female,High School,White,B,182.3,69.1,20.8,74136,103/70
+48,Female,High School,White,B,178.4,68.6,21.6,78605,93/76
+61,Male,High School,Black,B,143.5,64.2,31.2,77699,138/93
+59,Female,PhD,Asian,AB,177.3,82.3,26.2,64181,122/76
+64,Male,Associate,White,O,167.8,87.1,30.9,40658,118/76
+46,Female,Master,White,AB,180,56.7,17.5,108755,109/79
+51,Male,PhD,Black,A,172.6,74.2,24.9,69595,120/75
+59,Male,PhD,White,AB,169.8,77.9,27,56522,107/79
+25,Female,PhD,Hispanic,AB,176.4,77.8,25,56611,122/85
+59,Male,PhD,Hispanic,AB,168.3,77.5,27.4,62991,123/88
+61,Female,PhD,Asian,AB,169.8,69,23.9,81392,107/90
+38,Female,Bachelor,White,O,164.4,79.2,29.3,63792,106/100
+27,Female,Master,Black,A,153.9,84.3,35.6,77170,134/85
+25,Male,PhD,Hispanic,O,175.7,77.1,25,63027,119/102
+29,Male,Master,Black,O,161.9,82.6,31.5,57752,108/72
+50,Female,Bachelor,Black,AB,168,89.9,31.9,72825,114/100
+38,Female,Bachelor,Hispanic,B,172.9,47.2,15.8,72065,104/76
+63,Male,Master,Black,B,149.1,89.2,40.1,56607,118/77
+51,Female,High School,Hispanic,O,151.4,80.1,34.9,45015,132/78
+33,Female,Associate,Black,O,167,58.3,20.9,66834,119/77
+39,Female,High School,Hispanic,AB,174.5,87,28.6,61566,155/80
+39,Male,High School,White,O,177.4,69,21.9,48902,126/74
+50,Male,High School,Asian,AB,154.1,71.1,29.9,43151,123/88
+37,Male,PhD,Hispanic,B,176.4,67.4,21.7,68209,106/74
+56,Female,Bachelor,Hispanic,B,167.5,79.5,28.3,71001,116/86
+63,Female,High School,Asian,A,161.2,63.2,24.3,52799,108/95
+56,Female,Bachelor,Hispanic,B,163.5,88.5,33.1,48401,87/76
+28,Male,Master,Hispanic,O,178,72.9,23,43394,134/87
+54,Female,Associate,Black,B,172.7,69.5,23.3,67645,112/85
+61,Female,Master,Asian,AB,170.5,86.3,29.7,43920,108/102
+47,Female,Master,White,B,172.4,70.2,23.6,104822,123/74
+63,Female,PhD,Hispanic,A,179.3,89.2,27.7,51794,127/87
+39,Male,Associate,Asian,B,169,89.7,31.4,11495,115/63
+53,Male,Master,Black,AB,170.5,55,18.9,59396,119/75
+60,Female,Master,White,AB,181.4,91.6,27.8,58539,131/83
+37,Male,Associate,Asian,O,166.7,53.1,19.1,82234,114/93
+56,Male,Associate,White,B,176.2,92.6,29.8,65762,124/67
+31,Female,Master,White,AB,165,105.4,38.7,43323,95/87
+46,Female,Associate,White,A,165.8,88.1,32,54272,101/79
+52,Male,Master,Hispanic,O,169,42.6,14.9,66548,129/64
+26,Female,Master,Hispanic,A,175.2,91,29.6,16705,100/81
+30,Male,PhD,Black,B,181.9,108.7,32.9,86772,123/97
+52,Female,High School,Black,B,171,70.5,24.1,43376,117/68
+52,Male,Master,Asian,B,155,74.5,31,88340,114/78
+44,Female,Bachelor,Black,O,176.3,57.2,18.4,67849,107/70
+54,Male,High School,White,AB,194.5,79.7,21.1,72591,133/75
+35,Male,High School,White,O,171.1,94,32.1,82988,145/94
+52,Male,High School,Hispanic,A,152.9,85.5,36.6,71462,124/77
+49,Female,PhD,White,O,171.7,122.1,41.4,73457,124/94
+63,Male,Master,Asian,A,170,75.5,26.1,56711,109/91
+57,Male,PhD,White,O,169.1,50.5,17.7,67443,102/76
+25,Female,Master,White,AB,179.5,77.6,24.1,48250,119/74
+51,Female,PhD,Asian,A,183.8,38.8,11.5,53131,105/71
+37,Male,PhD,Black,B,176.8,67,21.4,99293,93/70
+65,Male,Bachelor,Black,B,168.7,99.4,34.9,43836,132/83
+27,Female,PhD,Asian,O,181.3,79.9,24.3,63086,132/79
+63,Female,Associate,Hispanic,B,155.1,77.7,32.3,62269,107/73
+30,Female,Bachelor,White,A,162.8,102.3,38.6,53784,123/64
+32,Female,PhD,Asian,B,164,70.9,26.4,70288,135/81
+51,Female,High School,White,AB,169.7,93.9,32.6,71794,123/75
+33,Male,Associate,Hispanic,AB,175.1,76.9,25.1,41483,102/78
+61,Female,Associate,White,O,168,80.7,28.6,62027,116/83
+57,Male,Associate,Asian,A,160.9,56.7,21.9,38352,139/54
+48,Male,Bachelor,White,AB,179.7,67.8,21,75770,123/64
+39,Male,PhD,Black,AB,167.6,54,19.2,63529,128/102
+56,Female,PhD,Hispanic,A,171,73.6,25.2,61646,125/74
+56,Male,High School,Hispanic,B,175.5,80.9,26.3,73180,107/54
+48,Male,High School,Hispanic,B,170.4,58.3,20.1,54489,110/65
+65,Female,Associate,Asian,O,170.4,105.7,36.4,78280,125/104
+36,Male,High School,Hispanic,B,180.3,79.2,24.4,41031,132/72
+63,Male,Bachelor,Black,A,171.5,75.9,25.8,88237,136/91
+26,Female,PhD,Asian,AB,178.6,86.5,27.1,48981,107/81
+27,Male,Associate,Black,B,175.4,62.6,20.3,26076,126/75
+61,Male,High School,White,O,190.2,77.5,21.4,53429,137/87
+41,Male,Bachelor,White,B,174.1,64.2,21.2,51160,105/56
+26,Female,Bachelor,White,A,176.4,98.4,31.6,53278,142/65
+26,Female,High School,White,O,181,59.1,18,64632,144/75
+52,Female,PhD,Black,B,170.6,75.9,26.1,81956,159/66
+47,Male,High School,Asian,O,163.6,79.9,29.9,56165,123/74
+61,Male,Associate,Asian,A,165.3,80.9,29.6,46167,123/88
+56,Female,High School,Hispanic,AB,165.4,66.3,24.2,37469,132/81
+57,Male,Bachelor,Black,A,160.5,61.6,23.9,50636,131/93
+25,Male,High School,White,A,173.2,66.5,22.2,22243,136/81
+43,Female,PhD,Black,A,163.7,82.9,30.9,45497,131/89
+26,Female,Master,Hispanic,A,171.9,72.8,24.6,84881,118/79
+50,Male,High School,Hispanic,AB,168.4,86.9,30.6,43532,138/74
+56,Male,PhD,Black,AB,169.6,82.2,28.6,72574,103/94
+30,Male,PhD,Black,O,175.6,40.8,13.2,35470,120/72
+56,Female,Bachelor,Black,B,164.6,78.7,29,95421,143/83
+28,Female,PhD,Asian,AB,176.4,108.8,35,96752,101/87
+35,Female,PhD,White,AB,185.7,94.9,27.5,71820,109/88
+41,Female,PhD,Black,B,173.4,81.3,27,99825,130/68
+62,Male,PhD,Black,AB,162.2,59.1,22.5,67115,125/90
+48,Female,Associate,Black,A,163.8,82.2,30.6,75370,106/70
+29,Female,Associate,Hispanic,A,167.5,86.1,30.7,85238,113/88
+58,Female,Bachelor,Hispanic,B,164.1,71.2,26.4,63594,102/85
+30,Female,High School,Asian,O,160.1,79.8,31.1,28952,134/88
+46,Female,PhD,White,O,171.5,97.6,33.2,75779,116/67
+35,Male,High School,Asian,B,167.8,62.1,22.1,50562,146/85
+40,Male,High School,White,B,171.9,59.1,20,52049,121/90
+57,Female,Bachelor,Hispanic,A,181.9,85.4,25.8,65957,116/81
+33,Male,PhD,Hispanic,O,167.6,81.9,29.2,71325,115/71
+30,Female,PhD,Hispanic,AB,158.1,90.4,36.2,63002,116/89
+40,Female,Master,Asian,A,166,83.5,30.3,72714,121/81
+53,Male,High School,Black,B,177.7,66.5,21.1,45862,157/63
+27,Male,High School,Black,O,176.8,81.5,26.1,59145,114/71
+44,Female,Associate,Hispanic,AB,175.2,57.9,18.9,76981,115/74
+60,Female,Master,Black,AB,163.8,71.2,26.5,95455,120/95
+43,Female,Associate,Black,A,177.5,82.5,26.2,102528,136/93
+50,Male,Associate,Asian,O,179.8,69.6,21.5,68659,98/93
+27,Female,Associate,White,O,163,112,42.2,76800,126/82
+43,Female,Bachelor,Hispanic,B,169.6,46.6,16.2,99631,107/89
+44,Female,Bachelor,Hispanic,O,190.2,66.8,18.5,46583,128/68
+56,Male,Associate,Asian,O,162.6,60.9,23,72593,112/80
+31,Female,Master,Asian,A,152.9,64.5,27.6,75366,85/84
+65,Female,High School,Black,O,183.8,65.4,19.4,88957,125/69
+57,Male,Master,Hispanic,AB,181.4,55.1,16.7,37257,125/82
+64,Female,PhD,White,A,165.4,86.3,31.5,41211,111/96
+63,Female,Bachelor,Asian,A,168.9,66.8,23.4,60427,110/85
+42,Male,High School,White,B,157.8,77.5,31.1,67554,100/89
+64,Female,High School,White,O,170.9,68.5,23.5,82457,131/55
+25,Male,PhD,Hispanic,B,181.7,64.6,19.6,70350,133/95
+35,Male,PhD,Hispanic,AB,164.6,100.1,36.9,56971,106/78
+52,Female,Associate,Asian,A,178.8,88.8,27.8,68329,111/72
+49,Female,Bachelor,Hispanic,A,174.6,47,15.4,66020,119/78
+47,Female,Bachelor,Hispanic,A,175.8,45.4,14.7,94900,154/65
+55,Female,Master,Hispanic,AB,165.2,90.6,33.2,63313,128/90
+54,Male,Associate,White,AB,166.5,67.2,24.2,52338,105/76
+59,Female,Associate,Asian,B,151.5,50.3,21.9,68992,124/72
+31,Male,Associate,Black,B,164.3,90.7,33.6,63969,99/78
+40,Female,Associate,White,B,181.6,77.5,23.5,28580,130/91
+50,Female,Bachelor,Hispanic,O,160.7,78.8,30.5,59686,145/81
+26,Female,Bachelor,White,A,162.2,87.1,33.1,57985,145/65
+25,Male,Associate,Hispanic,A,176.4,55.4,17.8,49122,131/84
+36,Female,Master,Hispanic,B,174,50.5,16.7,80711,111/70
+29,Female,High School,White,A,176.9,98.7,31.5,44286,100/58
+61,Female,High School,Asian,B,158.4,53.4,21.3,69112,98/94
+56,Female,Master,Hispanic,O,195.6,56.7,14.8,57042,77/84
+33,Male,Associate,Asian,O,157.8,59.7,24,62153,130/79
+65,Female,Bachelor,Black,AB,171.5,106.2,36.1,68235,118/76
+59,Male,High School,Hispanic,O,168.4,82.4,29.1,33848,133/93
+43,Male,PhD,Asian,B,158.1,89.5,35.8,63833,141/110
+40,Male,PhD,Asian,O,166.3,77.9,28.2,105778,121/84
+27,Male,Master,Black,AB,170.2,66,22.8,28864,122/69
+44,Male,Associate,Asian,A,163.5,84.5,31.6,58847,113/78
+48,Male,High School,Asian,B,179.4,51.7,16.1,82464,114/84
+57,Female,Associate,Black,A,168.4,58.6,20.7,66032,130/56
+48,Male,High School,Hispanic,AB,156.6,86,35.1,73759,117/83
+35,Male,Master,Asian,AB,155.7,54.6,22.5,12486,115/84
+32,Male,Master,Asian,AB,176.1,72.2,23.3,71964,119/93
+60,Female,PhD,Asian,A,155.1,72.8,30.3,44766,133/92
+62,Female,Associate,White,A,173.2,67.1,22.4,66197,109/81
+64,Male,PhD,Black,A,174.4,45.7,15,59411,119/95
+44,Female,Associate,White,A,160,65.6,25.6,105566,123/100
+59,Male,PhD,Black,AB,178.9,62.6,19.6,70933,137/80
+49,Male,Bachelor,Hispanic,AB,152.8,77.4,33.2,57747,116/84
+59,Female,Bachelor,Hispanic,B,173,76.7,25.6,29806,109/62
+49,Male,Bachelor,Asian,B,169.6,80.7,28.1,62422,112/65
+53,Female,Bachelor,Black,A,168.8,64.9,22.8,76464,135/71
+42,Female,High School,Hispanic,O,158.2,82.8,33.1,58388,150/75
+42,Male,Bachelor,Black,O,160.6,51.7,20,49886,100/69
+26,Male,Master,Hispanic,AB,186.2,47.7,13.8,48548,103/79
+59,Female,Master,White,AB,182.2,40,12,70702,117/75
+40,Male,High School,Hispanic,AB,177.4,67.5,21.4,75187,121/90
+65,Male,Bachelor,White,B,179.4,63.7,19.8,87224,131/75
+60,Male,Bachelor,Hispanic,B,178.5,86.8,27.2,40100,106/57
+57,Female,Bachelor,Asian,AB,166.8,65.3,23.5,70519,104/81
+28,Female,PhD,White,AB,170.5,79.1,27.2,57565,122/79
+57,Male,Associate,Hispanic,AB,155.3,87.2,36.2,58155,116/71
+38,Female,PhD,Asian,O,169.1,64.7,22.6,68036,133/80
+45,Female,Associate,White,B,181.8,79.5,24.1,68153,127/69
+44,Female,Bachelor,Asian,O,163.4,90,33.7,70575,128/83
+32,Female,Bachelor,Black,O,180.2,56.4,17.4,38850,118/106
+31,Female,PhD,Black,AB,170.9,75.4,25.8,45003,155/61
+27,Male,PhD,White,AB,156.1,64.8,26.6,89717,107/74
+41,Male,Associate,Hispanic,A,158.9,57.4,22.7,55588,129/73
+57,Male,Master,White,A,179.2,52,16.2,66120,100/75
+36,Female,Associate,Asian,O,175.5,57.1,18.5,81093,103/90
+46,Female,PhD,Hispanic,B,171,75.9,26,69268,110/85
+46,Male,PhD,Black,AB,167.3,50.8,18.1,70930,144/88
+54,Female,High School,Hispanic,AB,172.1,66.7,22.5,77891,123/80
+62,Male,PhD,Black,O,178.8,87.2,27.3,17666,111/66
+62,Male,High School,Hispanic,A,184.8,81.7,23.9,50200,125/68
+32,Male,Master,Hispanic,B,185.2,67,19.5,69372,120/87
+51,Female,Associate,Hispanic,A,173.7,100.3,33.2,87752,112/81
+51,Female,Associate,Asian,A,168.3,103.4,36.5,61321,99/92
+58,Male,High School,Asian,A,171.5,75.4,25.6,43105,141/82
+45,Male,Associate,White,A,175.2,38,12.4,43638,123/68
+54,Male,PhD,White,AB,175.2,88.3,28.8,77677,152/74
+57,Male,Bachelor,Black,AB,183.1,40.6,12.1,55644,134/85
+52,Female,High School,Asian,A,191.2,97.1,26.6,59855,128/87
+57,Female,Associate,Black,B,167.9,91.3,32.4,72300,113/88
+29,Male,High School,White,O,191.6,101.6,27.7,1969,103/69
+43,Male,High School,Black,B,181.7,78.9,23.9,100007,116/67
+28,Female,Bachelor,White,B,169,69.6,24.4,45378,103/78
+59,Female,PhD,Asian,B,185,68.2,19.9,64838,129/94
+41,Male,High School,Hispanic,A,186.9,66.8,19.1,25906,144/73
+52,Male,Associate,Asian,AB,165.4,89.7,32.8,51549,116/84
